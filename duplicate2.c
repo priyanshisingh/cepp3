@@ -1,6 +1,6 @@
 //Time=O(n);Space=O(1);
 #include<stdio.h>
-int num(int);
+int abs(int);
 int main(){
 int i,n,c=0,d=-1;
 printf("Enter the limit of the array\n");
